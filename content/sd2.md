@@ -208,6 +208,19 @@ The overall architecture remains the same from v1.0 to v2.1, with just a few ref
 
 That's all you need to know for Stable diffusion! 
 
+___
+
+### Useful Links and References 
+
+**Latent Diffusion Model Paper**: [Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)
+**VAE Explanation**: [Towards Data Science Guide](https://towardsdatascience.com/vae-variational-autoencoders-how-to-employ-neural-networks-to-generate-new-images-bdeb216ed2c0) 
+**CLIP Model**: [GitHub Repository](https://github.com/openai/CLIP) 
+**OpenCLIP**: [GitHub Repository](https://github.com/mlfoundations/open_clip) 
+**Stable Diffusion Explained**:
+- [Illustrated Guide](https://jalammar.github.io/illustrated-stable-diffusion/) 
+- [Medium Article](https://medium.com/@steinsfu/stable-diffusion-clearly-explained-ed008044e07e) 
+
+
 
 
 

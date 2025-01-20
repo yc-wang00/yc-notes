@@ -230,3 +230,10 @@ With the training objective simplified, the training and sampling steps become m
 4. **Sampling**: At test time, sample random noise from a Gaussian and apply the reverse process step by step to get a final image.
 
 This is how DDPMs work! 
+___
+
+### Useful Links and References 
+
+**DDPM Paper**: [Denoising Diffusion Probabilistic Models (DDPM)](https://arxiv.org/pdf/2006.11239) 
+**Math Behind DDPM**: [Lilian Weng's Blog Post](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) 
+**DDPM Explained**: [YouTube Video](https://www.youtube.com/watch?v=1CIpzeNxIhU) 
