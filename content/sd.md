@@ -234,6 +234,6 @@ ___
 
 ### Useful Links and References 
 
-**DDPM Paper**: [Denoising Diffusion Probabilistic Models (DDPM)](https://arxiv.org/pdf/2006.11239) 
-**Math Behind DDPM**: [Lilian Weng's Blog Post](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) 
-**DDPM Explained**: [YouTube Video](https://www.youtube.com/watch?v=1CIpzeNxIhU) 
+- **DDPM Paper**: [Denoising Diffusion Probabilistic Models (DDPM)](https://arxiv.org/pdf/2006.11239) 
+- **Math Behind DDPM**: [Lilian Weng's Blog Post](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) 
+- **DDPM Explained**: [YouTube Video](https://www.youtube.com/watch?v=1CIpzeNxIhU) 

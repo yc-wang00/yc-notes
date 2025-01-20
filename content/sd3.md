@@ -130,6 +130,6 @@ The Refiner is essentially another LDM (with its own U-Net, text-encoder inputs,
 ### Useful Links and References 
 
 
-**SDXL Paper**: [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/pdf/2307.01952) 
-**SDXL-Turbo Paper**: [Adversarial Diffusion Distillation](https://arxiv.org/pdf/2311.17042)
+- **SDXL Paper**: [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/pdf/2307.01952) 
+- **SDXL-Turbo Paper**: [Adversarial Diffusion Distillation](https://arxiv.org/pdf/2311.17042)
 
